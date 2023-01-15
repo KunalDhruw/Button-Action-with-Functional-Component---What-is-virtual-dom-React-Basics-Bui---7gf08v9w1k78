@@ -14,3 +14,9 @@ button{
 .bg-pink{
 	background-color:pink;
 }
+.hide{
+    display: none;
+}
+.sho{
+    display: block;
+}
